@@ -1,3 +1,7 @@
+[Bybit-UM-USDC-OptionTransactionLog-1734349654-1734436054.csv](https://github.com/user-attachments/files/18220541/Bybit-UM-USDC-OptionTransactionLog-1734349654-1734436054.csv)
+[Via-LA-Formation-FINAL.pdf](https://github.com/user-attachments/files/18220540/Via-LA-Formation-FINAL.pdf)
+[dex-aggregator-value.md](https://github.com/user-attachments/files/18220539/dex-aggregator-value.md)
+[README.md](https://github.com/user-attachments/files/18220538/README.md)
 - 👋 Hi, I’m @Jaimecarrillo1918
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
